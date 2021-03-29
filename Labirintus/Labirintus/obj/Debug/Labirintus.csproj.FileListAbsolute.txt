@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Labirintus\Labirintus\bin\Debug\Labirintus.exe.config
+C:\Users\PC\source\repos\Labirintus\Labirintus\bin\Debug\Labirintus.exe
+C:\Users\PC\source\repos\Labirintus\Labirintus\bin\Debug\Labirintus.pdb
+C:\Users\PC\source\repos\Labirintus\Labirintus\obj\Debug\Labirintus.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Labirintus\Labirintus\obj\Debug\Labirintus.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Labirintus\Labirintus\obj\Debug\Labirintus.exe
+C:\Users\PC\source\repos\Labirintus\Labirintus\obj\Debug\Labirintus.pdb
